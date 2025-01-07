@@ -1,0 +1,20 @@
+Node JS:
+1. A runtime environment for executing Javascript code
+
+js code -> js engine -> Machine code
+
+Architecture:
+
+Written using C++ and V8 engine
+Have additional features liek file Systems,Networking,...
+
+-- Non Blocking Asynchronous - Single Threaded
+-- Ideal for I/O Intensive apps
+-- Do not use Node for CPU intensive apps
+
+Import/Exporting A module:
+
+module.exports.Variable = Value
+import : require('./fileLocation');
+
+// To check run time errors : use jshint for compile
