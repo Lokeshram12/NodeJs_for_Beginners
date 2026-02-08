@@ -6,7 +6,7 @@ js code -> js engine -> Machine code
 Architecture:
 
 Written using C++ and V8 engine
-Have additional features liek file Systems,Networking,...
+Have additional features like file Systems,Networking,...
 
 -- Non Blocking Asynchronous - Single Threaded
 -- Ideal for I/O Intensive apps

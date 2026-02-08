@@ -1,2 +1,0 @@
-console.log(window)
-// window is not defined
