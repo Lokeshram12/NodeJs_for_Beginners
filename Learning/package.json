@@ -4,10 +4,10 @@
   "description": "",
   "license": "ISC",
   "author": "Lokesh",
-  "type": "commonjs",
-  "main": "hello.js",
+  "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node hello.js"
+    "start": "node index.js"
   }
 }
